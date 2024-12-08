@@ -99,7 +99,7 @@ function App() {
           
       <div className="conatiner bg-white">
 
-      <div className='container mx-auto my-5 rounded-xl p-4 bg-violet-300 min-h-screen w-1/2 lg:min-h-fit'>
+      <div className='container mx-auto my-5 rounded-xl p-4 bg-violet-300 h-screen w-1/2 lg:min-h-fit'>
       
       <h1 className='font-bold text-2xl text-center'>KG Todo - manage your todos at one place</h1>
 
